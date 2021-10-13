@@ -1,0 +1,12 @@
+import React from 'react';
+
+const Blog = () => {
+    return (
+        <div>
+            <h1 style={{textAlign:'center'}}>This is Blog</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, excepturi. Commodi quos, optio consectetur sint, soluta nam sed, totam accusantium temporibus minus numquam? Quidem quasi, obcaecati, eius fugiat dignissimos inventore est ad temporibus mollitia id neque asperiores eligendi quibusdam nobis facere tempora commodi. Laboriosam perferendis nulla architecto accusantium amet assumenda voluptatum, numquam eligendi. Non architecto id laboriosam, corporis perferendis voluptatem harum deleniti facilis ea unde ullam asperiores quas vero sit aspernatur modi debitis nisi dolor quasi minus sunt, necessitatibus consectetur ipsum? Delectus facilis nostrum quidem inventore iure cupiditate, dicta quia fuga sint. Reprehenderit vero repellendus dolore omnis, temporibus maiores maxime ipsa nesciunt, minus provident debitis? Eligendi atque explicabo, iste, necessitatibus doloremque praesentium provident repellat quidem porro impedit sapiente rerum perspiciatis cupiditate ad corporis incidunt quisquam amet, similique corrupti expedita adipisci! Cupiditate, libero. Sequi expedita eius alias, totam aspernatur vel possimus. Est impedit velit magnam quod aspernatur repellendus ea atque eveniet ut, explicabo hic voluptatem voluptatibus at sapiente, fugit maiores aperiam magni ab dicta libero error facilis nobis adipisci vitae! Debitis atque ipsum ipsam corrupti quaerat libero? Dolore minima voluptates sequi quam eveniet ab reiciendis totam sint exercitationem enim! Atque nesciunt illum dolor dolorum quibusdam nihil cum cumque fuga velit incidunt. Quam error veniam molestiae ipsa ipsum repellat corporis quia omnis qui hic deleniti, placeat similique, laudantium inventore? Officiis aut velit esse molestiae! Illo similique nam quo expedita sequi recusandae rem incidunt quas, tempora veritatis, molestiae dicta id adipisci nulla reprehenderit eaque ab enim? Totam a excepturi rerum ullam ad pariatur itaque nemo natus, architecto est et ab officiis quis aperiam iusto illum assumenda temporibus dicta illo eum laboriosam atque. Repellat, quas quasi. Placeat sint aspernatur ea. Corrupti, debitis consequatur quisquam aperiam voluptates consectetur quam officiis architecto earum sunt quidem soluta accusamus iusto tempora dignissimos quae, quis sapiente totam consequuntur velit?</p>
+        </div>
+    );
+};
+
+export default Blog;
